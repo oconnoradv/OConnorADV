@@ -1,6 +1,6 @@
 ## About
 
-I spend a little time tinkering with a variety of open-source lab projects to learn or solve problems that affect my home, such as media service optimization, network security, camera management, photo library management, etc. 
+I spend a fair amount of personal time tinkering with open-source lab projects to learn or solve problems that affect my home, such as media service optimization, network security, camera management, and photo library management. 
 
 In my free time, I ride motorcycles, scuba dive, and spend time with the family. You can view some of my riding and scuba adventures on [www.oconnoradv.com](https://www.oconnoradv.com).
 
