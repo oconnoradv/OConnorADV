@@ -15,4 +15,4 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 * Recreational diver since 1992 (originally NASDS, and recertified PADI in 2011)
 
 #### Static website
-* The content for my static [www.oconnoradv.com](https://www.oconnoradv.com) is pushed from my home WordPress services to GitHub with an action to publish to Pages.
+* The content for my static [www.oconnoradv.com](https://www.oconnoradv.com) is pushed from my home WordPress services to the `static-website` directory on GitHub. An action publishes that directory to Pages.
