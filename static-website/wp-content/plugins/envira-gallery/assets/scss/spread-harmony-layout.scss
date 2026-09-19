@@ -1,0 +1,27 @@
+/* ==========================================================================
+   Spread Harmony Layout
+   ========================================================================== */
+
+.envira-gallery-wrap.envira-layout-spread-harmony {
+	clear: both;
+	display: block;
+
+	.envira-layout-spread-harmony--container {
+		width: 100%;
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+
+		@media (max-width: 400px) {
+			grid-template-columns: 1fr;
+		}
+
+		.envira-gallery-item {
+			position: relative;
+			overflow: hidden;
+			width: 100%;
+			height: 100%;
+		}
+
+	}
+}
+
