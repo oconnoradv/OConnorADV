@@ -343,3 +343,4 @@
 [2026-09-18 21:53:52 : INFO] - Cache for next post (with URL: http://wordpress.lan/salt-creek/) adjacent to post with id: 514 has been purged, triggered by action: save_post 
 [2026-09-18 21:53:52 : INFO] - Cache for all archives page associated with post_type: post and Title: "Crescent Lake" have been purged, triggered by action: save_post 
 [2026-09-18 21:53:52 : INFO] - Cache for author page URL: http://wordpress.lan/author/glasseye/ associated with post_type: post and Title: "Crescent Lake" has been purged, triggered by action: save_post 
+[2026-09-18 23:02:47 : INFO] - Full Cache Purge triggered by: WPO_Page_Cache::maybe_update_advanced_cache 
