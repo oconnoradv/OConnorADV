@@ -1,0 +1,97 @@
+$base: '.envira-watermarking';
+
+#{$base}--settings {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+
+	#{$base}--fields {
+		width: 50%;
+		display: block;
+
+		span#{$base}-image {
+			display: block;
+			clear: both;
+
+			img {
+				max-width: 150px;
+				height: auto;
+			}
+		}
+
+		span#{$base}-button {
+			display: block;
+			clear: both;
+		}
+
+		img#{$base}-text-preview {
+			width: auto;
+			max-width: 100%;
+			height: auto;
+			max-height: 45px;
+			display: block;
+			padding-top: 15px;
+		}
+	}
+
+	#{$base}--preview {
+		width: 50%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+		text-align: center;
+		padding-top: 15px;
+
+		&--image {
+			width: 90%;
+			height: auto;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+
+			&-img {
+				width: 100%;
+				height: auto;
+			}
+		}
+	}
+
+	#{$base}-spinner {
+		position: absolute;
+		width: 45px;
+		height: 45px;
+		animation: envira-watermarking-spinner 1s linear infinite;
+		background-image: url(../images/envira-leaf-logo.png);
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+}
+
+@media (max-width: 480px) {
+	#{$base} {
+		&--fields {
+			width: 100%;
+		}
+
+		&--preview {
+			width: 100%;
+		}
+	}
+}
+
+@keyframes envira-watermarking-spinner {
+    0% {
+        transform: rotate(0deg) scale(1);
+    }
+    50% {
+        transform: rotate(180deg) scale(1.5);
+    }
+    100% {
+        transform: rotate(360deg) scale(1);
+    }
+}
