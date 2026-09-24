@@ -1,0 +1,136 @@
+[2025-10-04 19:21:06 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-04 19:22:01 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-04 19:26:22 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:35:43 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-04 19:41:31 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-04 19:42:09 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:44:10 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-04 19:44:40 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:50:00 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:50:01 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:50:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:51:36 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 19:53:43 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 20:53:39 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 20:54:12 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-04 20:54:24 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-07 19:25:05 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2025-10-07 19:31:10 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/grand-cayman/ has been purged, triggered by action: save_post 
+[2025-10-07 19:31:10 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Grand Cayman 2021" has been purged, triggered by action: save_post 
+[2025-10-07 19:32:51 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/grand-cayman/ has been purged, triggered by action: save_post 
+[2025-10-07 19:32:51 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Grand Cayman 2021" has been purged, triggered by action: save_post 
+[2025-10-07 19:36:29 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/grand-cayman-2024/ has been purged, triggered by action: save_post 
+[2025-10-07 19:36:29 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Grand Cayman 2024" has been purged, triggered by action: save_post 
+[2025-10-07 19:44:05 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/scuba-videos/ has been purged, triggered by action: save_post 
+[2025-10-07 19:44:05 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "SCUBA Videos" has been purged, triggered by action: save_post 
+[2025-10-07 19:48:02 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/scuba-videos/ has been purged, triggered by action: save_post 
+[2025-10-07 19:48:02 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "SCUBA Videos" has been purged, triggered by action: save_post 
+[2025-10-07 19:51:18 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/grand-cayman-2024/ has been purged, triggered by action: save_post 
+[2025-10-07 19:51:18 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Grand Cayman 2024" has been purged, triggered by action: save_post 
+[2025-10-07 19:55:15 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/edmonds-underwater-park/ has been purged, triggered by action: save_post 
+[2025-10-07 19:55:15 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Edmonds Underwater Park" has been purged, triggered by action: save_post 
+[2025-10-07 20:00:25 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/edmonds-underwater-park/ has been purged, triggered by action: save_post 
+[2025-10-07 20:00:25 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Edmonds Underwater Park" has been purged, triggered by action: save_post 
+[2025-10-07 20:04:54 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/misc-motorcycling/ has been purged, triggered by action: save_post 
+[2025-10-07 20:04:54 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Misc Motorcycling" has been purged, triggered by action: save_post 
+[2025-10-07 20:05:16 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/misc-motorcycling/ has been purged, triggered by action: save_post 
+[2025-10-07 20:05:16 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Misc Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:06:47 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/misc-motorcycling/ has been purged, triggered by action: save_post 
+[2025-10-07 20:06:47 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Motorcycle Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:07:49 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/misc-motorcycling/ has been purged, triggered by action: save_post 
+[2025-10-07 20:07:49 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Motorcycle Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:15:09 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/scuba-videos/ has been purged, triggered by action: save_post 
+[2025-10-07 20:15:09 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "SCUBA Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:21:49 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/backyard-wildlife/ has been purged, triggered by action: save_post 
+[2025-10-07 20:21:49 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Backyard Wildlife" has been purged, triggered by action: save_post 
+[2025-10-07 20:23:18 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/misc-motorcycling/ has been purged, triggered by action: save_post 
+[2025-10-07 20:23:18 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Motorcycle Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:23:55 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/misc-motorcycling/ has been purged, triggered by action: save_post 
+[2025-10-07 20:23:55 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Motorcycle Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:26:44 : INFO] - Cache for URL: https://www.oconnoradv.com/envira/backyard-wildlife/ has been purged, triggered by action: save_post 
+[2025-10-07 20:26:44 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: envira and Title: "Backyard Wildlife" has been purged, triggered by action: save_post 
+[2025-10-07 20:29:00 : INFO] - Cache for URL: https://www.oconnoradv.com/all-videos/ has been purged, triggered by action: save_post 
+[2025-10-07 20:29:00 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: page and Title: "All Videos" has been purged, triggered by action: save_post 
+[2025-10-07 20:30:33 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:30:34 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:34:03 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:34:05 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:34:25 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:34:26 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:34:33 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:34:34 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:36:11 : INFO] - Cache for URL: https://www.oconnoradv.com/backyard-wildlife/ has been purged, triggered by action: save_post 
+[2025-10-07 20:36:11 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: page and Title: "Backyard Wildlife" has been purged, triggered by action: save_post 
+[2025-10-07 20:38:19 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:38:20 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:41:29 : INFO] - Cache for URL: https://www.oconnoradv.com/all-videos/ has been purged, triggered by action: wp_trash_post 
+[2025-10-07 20:44:23 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:44:25 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:45:59 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:46:00 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:47:01 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 20:47:02 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:01:20 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:01:29 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:04:01 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:04:33 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:04:39 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:06:08 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:08:24 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:09:06 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: wpforms and Title: "Simple Contact Form" has been purged, triggered by action: save_post 
+[2025-10-07 21:15:42 : INFO] - Cache for URL: https://www.oconnoradv.com/2012/07/06/alaska-tour/ has been purged, triggered by action: comment_post 
+[2025-10-07 21:17:30 : INFO] - Cache for URL: https://www.oconnoradv.com/2012/07/06/alaska-tour/ has been purged, triggered by action: wp_set_comment_status 
+[2025-10-07 21:23:47 : INFO] - Setting changed, purging cache 
+[2025-10-07 21:28:30 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:28:31 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:29:07 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:29:08 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:32:51 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:32:52 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-07 21:52:30 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:04 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:13 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:22 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:29 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:37 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:42 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:46 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:47 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:51 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:55:55 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-07 21:56:43 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:36:57 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:37:04 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:37:06 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:37:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:42:56 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:48:21 : INFO] - Cache for URL: https://www.oconnoradv.com/terms-and-conditions/ has been purged, triggered by action: save_post 
+[2025-10-08 15:48:21 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: page and Title: "Terms and Conditions" has been purged, triggered by action: save_post 
+[2025-10-08 15:53:23 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 15:53:23 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 15:55:46 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 15:55:49 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 15:57:36 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 15:58:27 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:06:06 : INFO] - Cache for URL: https://www.oconnoradv.com/opt-out-preferences/ has been purged, triggered by action: save_post 
+[2025-10-08 16:06:06 : INFO] - Cache for author page URL: https://www.oconnoradv.com/author/glasseye/ associated with post_type: page and Title: "Opt-out preferences" has been purged, triggered by action: save_post 
+[2025-10-08 16:16:04 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:16:15 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:16:23 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:16:34 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:27:56 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 16:27:59 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 16:28:39 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 16:28:40 : INFO] - Full Cache Purge triggered by action: wp_update_nav_menu 
+[2025-10-08 16:47:57 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:48:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:50:11 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:50:38 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:51:14 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:52:05 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 16:52:13 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 17:00:37 : INFO] - Pruning the Cache log file 
+[2025-10-08 17:17:52 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 20:00:47 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 20:01:08 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
+[2025-10-08 20:31:48 : INFO] - Full Cache Purge triggered by: plugin activation/deactivation 
