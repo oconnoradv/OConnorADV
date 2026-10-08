@@ -14,5 +14,10 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 * SDI Dive Master - not currently working with any instructors for this instructional standard
 * Recreational diver since 1992 (originally NASDS, and recertified PADI in 2011)
 
-#### Static website
-* The content for my static [www.oconnoradv.com](https://www.oconnoradv.com) is pushed from my home WordPress services to the `static-website` directory on GitHub. An action publishes that directory to Pages.
+#### Project(s)
+##### SpotwallaGallery
+* I wanted an easier way to display my motorcycle GPS tracks within my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that allows linking to Spotwalla Trips, Tracks, and Retrospectives so that they can be linked within any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
+* I welcome contributors to further improve the plugin.
+##### PtGHP
+* My [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity
+* The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with themes I utilize
