@@ -15,18 +15,20 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 * Recreational diver since 1992 (originally NASDS, and recertified PADI in 2011)
 
 #### Project(s)
-##### SpotwallaGallery
+##### Gallery for SpotwWalla (a.k.a. SpotwallaGallery)
 I wanted an easier way to display my motorcycle GPS tracks on my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that lets you link to Spotwalla Trips, Tracks, and Retrospectives and embed them on any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
+* **Disclaimer**: Gallery for SpotWalla is an independent project. It is not affiliated with, endorsed by, sponsored by, or approved by SpotWalla or the SpotWalla team. SpotWalla is a trademark of its respective owner and is used here only to describe compatibility. Direct questions about the plugin to this project, not to SpotWalla.
 
 I welcome contributors to further improve the plugin.
 
-##### SpotwallaGallery
+##### Motorcycle Rally Scoring Application (a.k.a. MRSA)
 I am actively working on a project to make it easy for a Rally Master to create and run a [Motorcycle / Scavenger Rally](https://github.com/oconnoradv/MotorcycleRallyScoringAppa) rally with distributed scoring within WordPress. The initiative is still in its infancy, but once the main plugin is ready, I'll open it to contributors.
 
-###### Near Term Enhancements:
+###### In Work Enhancements:
 * loading event scoring via url or xlsx/csv w/virus scanning
-* scoring automation
+* scoring automation/mechanism
 * automated ranking status updates
+
 ###### Long Term Enhancements:
 * create phone apps to submit bonus points
 
