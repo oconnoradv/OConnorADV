@@ -16,8 +16,19 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 
 #### Project(s)
 ##### SpotwallaGallery
-* I wanted an easier way to display my motorcycle GPS tracks within my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that allows linking to Spotwalla Trips, Tracks, and Retrospectives so that they can be linked within any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
-* I welcome contributors to further improve the plugin.
+I wanted an easier way to display my motorcycle GPS tracks on my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that lets you link to Spotwalla Trips, Tracks, and Retrospectives and embed them on any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
+
+I welcome contributors to further improve the plugin.
+
+##### SpotwallaGallery
+I am actively working on a project to make it easy for a Rally Master to create and run a [Motorcycle / Scavenger Rally](https://github.com/oconnoradv/MotorcycleRallyScoringAppa) rally with distributed scoring within WordPress. The initiative is still in its infancy, but once the main plugin is ready, I'll open it to contributors.
+
+###### Near Term Enhancements:
+* loading event scoring via url or xlsx/csv w/virus scanning
+* scoring automation
+* automated ranking status updates
+###### Long Term Enhancements:
+* create phone apps to submit bonus points
+
 ##### PtGHP
-* My [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity
-* The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with themes I utilize
+My [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity. The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with themes I utilize
