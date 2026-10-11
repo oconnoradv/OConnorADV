@@ -23,9 +23,9 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 </p>
 
 I wanted an easier way to display my motorcycle GPS tracks on my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that lets you link to Spotwalla Trips, Tracks, and Retrospectives and embed them on any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
-* **Disclaimer**: Gallery for SpotWalla is an independent project. It is not affiliated with, endorsed by, sponsored by, or approved by SpotWalla or the SpotWalla team. SpotWalla is a trademark of its respective owner and is used here only to describe compatibility. Direct questions about the plugin to this project, not to SpotWalla.
-
-I welcome contributors to improve the plugin.
+>**Disclaimer**: Gallery for SpotWalla is an independent project. It is not affiliated with, endorsed by, sponsored by, or approved by SpotWalla or the SpotWalla team. SpotWalla is a trademark of its respective owner and is used here only to describe compatibility. Direct questions about the plugin to this project, not to SpotWalla.
+>
+>**Long Term Enhancements:** Register with WordPress Plugins catalog 
 
 ### Motorcycle Rally Scoring Application
 <p align="left">
@@ -39,7 +39,7 @@ I welcome contributors to improve the plugin.
 > 
 > **Future Enhancements:** Contested-submission handling, detailed score history, and beautification of public pages.
 >
->**Long Term Enhancements:** Create phone apps to submit bonus points
+>**Long Term Enhancements:** Create phone apps to submit bonus points, register with WordPress Plugins catalog
 
-#### PtGHP
-My [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity. The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with themes I utilize
+### PtGHP
+My draft [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity. The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with dynamic themes; this one may never see the ligth of day.
