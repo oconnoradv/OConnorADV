@@ -27,7 +27,7 @@ I wanted an easier way to display my motorcycle GPS tracks on my website, so I v
 >
 >**Long Term Enhancements:** Register with WordPress Plugins catalog 
 
-### RallyQuest Engine Wordpress Application
+### RallyQuest Engine
 <p align="left">
   <a href="https://github.com/oconnoradv/RallyQuestEngine"><img src="https://github.com/oconnoradv/RallyQuestEngine/raw/main/docs/rqe-header.svg" alt="A Competitive Scavenger Hunt Rally Management Engine for Motorcyclists, Bicyclists, Geocacher, or Horseback participants" width="30%"></a>
 </p>
