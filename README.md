@@ -24,8 +24,6 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 
 I wanted an easier way to display my motorcycle GPS tracks on my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that lets you link to Spotwalla Trips, Tracks, and Retrospectives and embed them on any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
 >**Disclaimer**: Gallery for SpotWalla is an independent project. It is not affiliated with, endorsed by, sponsored by, or approved by SpotWalla or the SpotWalla team. SpotWalla is a trademark of its respective owner and is used here only to describe compatibility. Direct questions about the plugin to this project, not to SpotWalla.
->
->**Long Term Enhancements:** Register with WordPress Plugins catalog 
 
 ### RallyQuest Engine
 <p align="left">
@@ -34,12 +32,6 @@ I wanted an easier way to display my motorcycle GPS tracks on my website, so I v
 A WordPress plugin to manage high-quality scavenger-hunt style rallies supporting Motorcyclists, Bicyclists, Geocacher, or Horseback riders. The plugin includes administrator assignments, equipment catalog, participant records, event configuration, event enrollment, and near-real-time scoreboard. Requires WordPress 6.2+, PHP 7.4+, MySQL 8.0+ or MariaDB 10.6+ with InnoDB, and the installed/active [Action Scheduler plugin](https://wordpress.org/plugins/action-scheduler/). Licensed under the GNU General Public License v3 or later (see [LICENSE](LICENSE)).
 
 I welcome contributors to improve the plugin.
-
-> **Version status:** The current release provides rally administration, rider and event management, event-scoped email bonus-submission inboxes (Gmail-API/IMAP/MS365), submission review and scoring by admin or event admins, overall rankings, embedding overall rankings in a page/post, exports, and backups.
-> 
-> **Future Enhancements:** Contested-submission handling, detailed score history, and beautification of public pages.
->
->**Long Term Enhancements:** Create phone apps to submit bonus points, register with WordPress Plugins catalog
 
 ### PtGHP
 My draft [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity. The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with dynamic themes; this one may never see the ligth of day.
