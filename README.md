@@ -19,7 +19,7 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 # Projects
 ### Gallery for SpotwWalla (a.k.a. SpotwallaGallery)
 <p align="left">
-  <a href="https://github.com/oconnoradv/SpotwallaGallary/tree/main"><img src="https://github.com/user-attachments/assets/3fe25cca-5fcd-43ce-8ac6-02df818cafcd" alt="Gallery for Spotwalla" width="30%"></a>
+  <a href="https://github.com/oconnoradv/SpotwallaGallary/tree/main"><img src="https://github.com/oconnoradv/SpotwallaGallary/blob/main/.wordpress-org/banner-772x250.jpg" alt="Gallery for Spotwalla" width="30%"></a>
 </p>
 
 I wanted an easier way to display my motorcycle GPS tracks on my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that lets you link to Spotwalla Trips, Tracks, and Retrospectives and embed them on any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
