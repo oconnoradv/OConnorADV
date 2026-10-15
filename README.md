@@ -8,7 +8,7 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 * **PADI Dive Master** - since 2017 - actively helping teach classes in Edmonds, WA, USA
 * **SDI Dive Master** - since 2020 - not actively working with instructors for this standard
 * Recreational diver - since 1992 (NASDS) and opted to recertify and retake all my recreational classes via PADI in 2011
-* Certifications: OW, AOW, Night, Photography, Search & Recovery, Rescue, Deep, O2 Provider, AED/First Aid, Master Diver, and Dive Master
+* Certifications: OW, AOW, Night, UW Photography, Search & Recovery, Rescue, Deep, DPV, Dry Suit, Altitude, Nitrox, O2 Provider, AED/First Aid, Master Diver, and Dive Master
 
 ### Motorcycling
 * Current ride is a **2015 BMW r1200GS** with more than 100K blissful miles. The bike is fully farkled with auxiliary lights, primary GPS (GPS, traffic, and Music), CarPlay GPS (backup GPS, Music, and weather), FLIR+display (detects animals at night), 3-gallon hydration unit, and 5-gallon auxiliary fuel cell.
