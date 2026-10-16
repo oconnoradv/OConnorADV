@@ -1,17 +1,17 @@
 # About
 
-I spend a fair amount of personal time tinkering with open-source lab projects to learn or solve problems that affect my home, such as media service optimization, network security, camera management, and photo library management. 
+I spend some personal time working with open-source lab projects within my home NAS devices to learn new things or help around my home, such as media service optimization, network security, camera management, and photo library management. Lately, I have also been tinkering with some WordPress plugins that I hope others will find useful too.
 
-In my free time, I ride motorcycles, scuba dive, and spend time with the family. You can view some of my riding and scuba adventures on [www.oconnoradv.com](https://www.oconnoradv.com).
+Most of my free time is utilized to ride motorcycles, scuba dive, and spend time with the family; check out [www.oconnoradv.com](https://www.oconnoradv.com) for photos on these topics.
 
 ### SCUBA
 * **PADI Dive Master** - since 2017 - actively helping teach classes in Edmonds, WA, USA
 * **SDI Dive Master** - since 2020 - not actively working with instructors for this standard
 * Recreational diver - since 1992 (NASDS) and opted to recertify and retake all my recreational classes via PADI in 2011
-* Certifications: OW, AOW, Night, UW Photography, Search & Recovery, Rescue, Deep, DPV, Dry Suit, Altitude, Nitrox, O2 Provider, AED/First Aid, Master Diver, and Dive Master
+* Certifications: OW, AOW, Night, UW Photography, Search & Recovery, Rescue, Deep, DPV, Dry Suit, Altitude, Nitrox, O2 Provider, AED/First Aid, Master Diver, and Dive Master x2
 
 ### Motorcycling
-* Current ride is a **2015 BMW r1200GS** with more than 100K blissful miles. The bike is fully farkled with auxiliary lights, primary GPS (GPS, traffic, and Music), CarPlay GPS (backup GPS, Music, and weather), FLIR+display (detects animals at night), 3-gallon hydration unit, and 5-gallon auxiliary fuel cell.
+* My current ride is a **2015 BMW r1200GS** with more than 100K blissful miles. The bike is fully farkled _(functional sparkle)_ with auxiliary lights, primary GPS (GPS, traffic, and Music), CarPlay GPS (backup GPS, Music, and weather), FLIR + display (detects animals at night), 3-gallon hydration unit, and 5-gallon auxiliary fuel cell. I even modded the BMW logos on the side of the bike so that they have a blue running light that toggles between [blue/yellow when the blinkers](https://www.ebay.com/itm/153678441451?itmmeta=01M52NS73NJ5YWKBM9GE1YZB2G&hash=item23c7f2ebeb:g:2-sAAeSwZxJo8I0s) are activated.
 * Often scoot around the local forest service roads for weekend motorcycle camping or create memorable street adventures throughout the continental US and Canada.
 * Periodically participate in long-distance competitive rallies such as the [Iron Butt Rally](https://www.ironbuttrally.com/)
 * Previous bikes: Honda 80, Yamaha 175 Enduro, Honda 750 Ace, Honda 1100, Honda VFR800 (a.k.a Interceptor), BMW 800GS, BMW 800GS ADV, and BMW r1200GS (current ride)
