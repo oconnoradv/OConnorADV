@@ -22,7 +22,7 @@ In my free time, I ride motorcycles, scuba dive, and spend time with the family.
 <p align="left">
   <a href="https://github.com/oconnoradv/RallyQuestEngine"><img src="https://github.com/oconnoradv/RallyQuestEngine/raw/main/docs/rqe-header.svg" alt="A Competitive Scavenger Hunt Rally Management Engine for Motorcyclists, Bicyclists, Geocacher, or Horseback participants" width="30%"></a>
 </p>
-A WordPress plugin to manage high-quality scavenger-hunt style rallies supporting Motorcyclists, Bicyclists, Geocacher, or Horseback riders. The plugin includes administrator assignments, equipment catalog, participant records, event configuration, event enrollment, and near-real-time scoreboard. Requires WordPress 6.2+, PHP 7.4+, MySQL 8.0+ or MariaDB 10.6+ with InnoDB, and the installed/active [Action Scheduler plugin](https://wordpress.org/plugins/action-scheduler/). Licensed under the GNU General Public License v3 or later (see [LICENSE](LICENSE)).
+A WordPress plugin to manage high-quality scavenger-hunt style rallies supporting Motorcyclists, Bicyclists, Geocacher, or Horseback riders. The plugin includes administrator assignments, equipment catalog, participant records, event configuration, event enrollment, and near-real-time scoreboard. Requires WordPress 6.2+, PHP 7.4+, and MySQL 8.0+ or MariaDB 10.6+ with InnoDB. Licensed under the GNU General Public License v3 or later (see [LICENSE](LICENSE)).
 
 I welcome contributors to improve the plugin.
 
