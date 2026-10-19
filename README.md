@@ -1,5 +1,3 @@
-# About
-
 I spend some personal time working with open-source lab projects within my home NAS devices to learn new things or help around my home, such as media service optimization, network security, camera management, and photo library management. Lately, I have also been tinkering with some WordPress plugins that I hope others will find useful too.
 
 Most of my free time is utilized to ride motorcycles, scuba dive, and spend time with the family; check out [www.oconnoradv.com](https://www.oconnoradv.com) for photos on these topics.
