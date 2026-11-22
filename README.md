@@ -16,6 +16,12 @@ Most of my free time is utilized to ride motorcycles, scuba dive, and spend time
 
 # Projects
 
+### Emby TuneIn Plugin
+<p align="left">
+  <a href="https://github.com/oconnoradv/EmbyTuneIn/tree/oconnadv-music-refresh-resilience"><img src="https://github.com/oconnoradv/EmbyTuneIn/blob/oconnadv-music-refresh-resilience/MediaBrowser.Plugins.TuneIn/Images/tunein-library.png" width=30%></a>
+</p>
+EmbyTuneIn adds an internet radio audio channel, powered by TuneIn, to Emby with administrator-configured browsing, scheduled category refreshes, station counts and live playback. Opening the settings page or the channel root never crawls the TuneIn catalog by itself.
+  
 ### RallyQuest Engine
 <p align="left">
   <a href="https://github.com/oconnoradv/RallyQuestEngine"><img src="https://github.com/oconnoradv/RallyQuestEngine/raw/main/docs/rqe-header.svg" alt="A Competitive Scavenger Hunt Rally Management Engine for Motorcyclists, Bicyclists, Geocacher, or Horseback participants" width="30%"></a>
