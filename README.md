@@ -18,7 +18,7 @@ Most of my free time is utilized to ride motorcycles, scuba dive, and spend time
 
 ### Emby TuneIn Plugin
 <p align="left">
-  <a href="https://github.com/oconnoradv/EmbyTuneIn/tree/oconnadv-music-refresh-resilience"><img src="https://github.com/oconnoradv/EmbyTuneIn/blob/oconnadv-music-refresh-resilience/MediaBrowser.Plugins.TuneIn/Images/tunein-library.png" width=30%></a>
+  <a href="https://github.com/oconnoradv/EmbyTuneIn/tree/oconnadv-music-refresh-resilience"><img src="[https://github.com/oconnoradv/EmbyTuneIn/blob/oconnadv-music-refresh-resilience/MediaBrowser.Plugins.TuneIn/Images/tunein-library.png](https://github.com/oconnoradv/EmbyTuneIn/raw/oconnadv-music-refresh-resilience/MediaBrowser.Plugins.TuneIn/Images/tunein-panel.png)" width=30%></a>
 </p>
 EmbyTuneIn adds an internet radio audio channel, powered by TuneIn, to Emby with administrator-configured browsing, scheduled category refreshes, station counts and live playback. Opening the settings page or the channel root never crawls the TuneIn catalog by itself.
   
