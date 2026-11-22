@@ -30,6 +30,12 @@ A WordPress plugin to manage high-quality scavenger-hunt style rallies supportin
 
 I welcome contributors to improve the plugin.
 
+### EmbyTuneIn Music Genre Art Pack Creator
+<p align="left">
+  <a href="https://github.com/oconnoradv/EmbyTuneInArt"><img src="https://github.com/oconnoradv/EmbyTuneInArt/blob/main/docs/embytuneinart-banner.png" width=30%></a>
+</p>
+I needed a bunch of images for Emby to utilize for the various Music genres that come in from TuneIn but the publicly available versions from TuneIn are not the desired dimention nor the look I wanted inside my personal library navigation, so I created this repo which will help others generate their own as well.
+
 ### Gallery for SpotwWalla (a.k.a. SpotwallaGallery)
 <p align="left">
   <a href="https://github.com/oconnoradv/SpotwallaGallary/tree/main"><img src="https://github.com/oconnoradv/SpotwallaGallary/blob/main/.wordpress-org/banner-772x250.jpg" alt="Gallery for Spotwalla" width="30%"></a>
