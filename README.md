@@ -20,7 +20,7 @@ Most of my free time is utilized to ride motorcycles, scuba dive, and spend time
 <p align="left">
   <a href="https://github.com/oconnoradv/EmbyTuneIn/tree/oconnadv-music-refresh-resilience"><img src="https://github.com/oconnoradv/EmbyTuneIn/blob/oconnoradv-tunein-refresh-improvements/MediaBrowser.Plugins.TuneIn/Images/tunein-panel.png" width=30%></a>
 </p>
-EmbyTuneIn adds an internet radio audio channel, powered by TuneIn, to Emby with administrator-configured browsing, scheduled category refreshes, station counts and live playback. I enhanced the plugin to provide a highly configurable administrative control panel that lets users refresh individual audio categories, optimizes refresh speeds, closes some security risks, and eliminates many nuanced issues such as pre-roll/mid-roll audio drops when adverts transition on TuneIn Free accounts. Special thanks to **Sibasiach** from Switzerland for all their help in testing the many platforms and scenarios.
+EmbyTuneIn adds an internet radio audio channel, powered by TuneIn, to Emby with administrator-configured browsing, scheduled category refreshes, station counts and live playback. I enhanced the plugin to provide a highly configurable administrative control panel that lets users refresh individual audio categories, optimizes refresh speeds, closes some security risks, and eliminates many nuanced issues such as pre-roll/mid-roll audio drops when adverts transition on TuneIn Free accounts. Special thanks to Sibasiach, a fellow TuneIn fan from Switzerland, for feature recommendations and helping test many platforms and scenarios.
   
 ### RallyQuest Engine
 <p align="left">
