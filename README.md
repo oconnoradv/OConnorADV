@@ -20,7 +20,7 @@ Most of my free time is utilized to ride motorcycles, scuba dive, and spend time
 <p align="left">
   <a href="https://github.com/oconnoradv/EmbyTuneIn/tree/oconnadv-music-refresh-resilience"><img src="https://github.com/oconnoradv/EmbyTuneIn/blob/oconnoradv-tunein-refresh-improvements/MediaBrowser.Plugins.TuneIn/Images/tunein-panel.png" width=30%></a>
 </p>
-EmbyTuneIn adds an internet radio audio channel, powered by TuneIn, to Emby with administrator-configured browsing, scheduled category refreshes, station counts and live playback. Opening the settings page or the channel root never crawls the TuneIn catalog by itself.
+EmbyTuneIn adds an internet radio audio channel, powered by TuneIn, to Emby with administrator-configured browsing, scheduled category refreshes, station counts and live playback. I enhanced the plugin to provide a highly configurable administrative control panel that lets users refresh individual audio categories, optimizes refresh speeds, closes some security risks, and eliminates many nuanced issues such as pre-roll/mid-roll audio drops when adverts transition on TuneIn Free accounts. Special thanks to **Sibasiach** from Switzerland for all their help in testing the many platforms and scenarios.
   
 ### RallyQuest Engine
 <p align="left">
@@ -43,6 +43,3 @@ I needed a bunch of images for Emby to utilize for the various Music genres that
 
 I wanted an easier way to display my motorcycle GPS tracks on my website, so I vibe-coded a WordPress plugin called '[SpotwallaGallery](https://github.com/oconnoradv/SpotwallaGallary)' that lets you link to Spotwalla Trips, Tracks, and Retrospectives and embed them on any other WordPress page as an object ID. You can also bundle them into a Gallery of similar rides.
 >**Disclaimer**: Gallery for SpotWalla is an independent project. It is not affiliated with, endorsed by, sponsored by, or approved by SpotWalla or the SpotWalla team. SpotWalla is a trademark of its respective owner and is used here only to describe compatibility. Direct questions about the plugin to this project, not to SpotWalla.
-
-### PtGHP
-My draft [PtGHP](https://github.com/oconnoradv/PtGHP) project is not currently public while I work out defects relating to theme complexity. The desire was to have an effective open-source WordPress --> GitHub Pages publication mechanism, but I am finding it more difficult than anticipated, mostly relating to difficulty with dynamic themes; this one may never see the ligth of day.
