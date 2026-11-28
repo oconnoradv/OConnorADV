@@ -6,7 +6,7 @@ Most of my free time is utilized to ride motorcycles, scuba dive, and spend time
 * **PADI Dive Master** - since 2017 - actively helping teach classes in Edmonds, WA, USA
 * **SDI Dive Master** - since 2020 - not actively working with instructors for this standard
 * Recreational diver - since 1992 (NASDS) and opted to recertify and retake all my recreational classes via PADI in 2011
-* Certifications: OW, AOW, Night, UW Photography, Search & Recovery, Rescue, Deep, DPV, Dry Suit, Altitude, Nitrox, O2 Provider, AED/First Aid, Master Diver, and Dive Master x2
+* Certifications: OW, AOW, Night, UW Photography, Search & Recovery, Rescue, Deep, DPV, Dry Suit, Altitude, Nitrox, O2 Provider, AED/First Aid, Master Diver, and Dive Master (PADI & SDI).
 
 ### Motorcycling
 * My current ride is a **2015 BMW r1200GS** with more than 100K blissful miles. The bike is fully farkled _(functional sparkle)_ with auxiliary lights, primary GPS (GPS, traffic, and Music), CarPlay GPS (backup GPS, Music, and weather), FLIR + display (detects animals at night), 3-gallon hydration unit, and 5-gallon auxiliary fuel cell. I even modded the BMW logos on the side of the bike so that they have a blue running light that toggles between [blue/yellow when the blinkers](https://www.ebay.com/itm/153678441451?itmmeta=01M52NS73NJ5YWKBM9GE1YZB2G&hash=item23c7f2ebeb:g:2-sAAeSwZxJo8I0s) are activated.
